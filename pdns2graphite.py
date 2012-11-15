@@ -23,6 +23,7 @@ recursor = [
    "answers10-100" ,
    "qa-latency" ,
    "answers100-1000" ,
+   "answers-slow" ,
    "unreachables" ,
    "cache-misses" ,
    "noedns-outqueries" ,
